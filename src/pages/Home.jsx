@@ -24,7 +24,7 @@ function CodeWindow() {
       <div className="grid-wash" />
       <div className="hero-photo-frame">
         <img
-          src="/shovan-portrait.jpg"
+          src="/shovan-portrait.png"
           width={1254}
           height={1254}
           fetchPriority="high"
